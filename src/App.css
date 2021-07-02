@@ -1,0 +1,24 @@
+
+body {
+    background-color: rgb(27, 27, 27);
+    color: white;
+}
+
+th {
+    color: #54845e;
+    text-align: center;
+}
+
+td {
+    color: white;
+    text-align: center;
+    vertical-align: middle;
+}
+
+td:first-child {
+    color: #54845e;
+}
+
+thead {
+    background-color: #262626;
+}

@@ -1,0 +1,170 @@
+{
+    "evidence": 
+    [
+        "EMF Level 5",
+        "Fingerprints",
+        "Freezing Temps",
+        "Ghost Orb",
+        "Ghost Writing",
+        "Sprit Box"
+    ],
+    "ghosts":
+    [
+        {
+            "ghost": "Banshee",
+            "evidence": 
+            {
+                "EMF Level 5": true,
+                "Fingerprints": true,
+                "Freezing Temps": true,
+                "Ghost Orb": false,
+                "Ghost Writing": false,
+                "Sprit Box": false
+            }
+        },
+        {
+            "ghost": "Demon",
+            "evidence": 
+            {
+                "EMF Level 5": false,
+                "Fingerprints": false,
+                "Freezing Temps": true,
+                "Ghost Orb": false,
+                "Ghost Writing": true,
+                "Sprit Box": true
+            }
+        },
+        {
+            "ghost": "Hantu",
+            "evidence": 
+            {
+                "EMF Level 5": false,
+                "Fingerprints": true,
+                "Freezing Temps": false,
+                "Ghost Orb": true,
+                "Ghost Writing": true,
+                "Sprit Box": false
+            }
+        },
+        {
+            "ghost": "Jinn",
+            "evidence": 
+            {
+                "EMF Level 5": true,
+                "Fingerprints": false,
+                "Freezing Temps": false,
+                "Ghost Orb": true,
+                "Ghost Writing": false,
+                "Sprit Box": true
+            }
+        },
+        {
+            "ghost": "Mare",
+            "evidence": 
+            {
+                "EMF Level 5": false,
+                "Fingerprints": false,
+                "Freezing Temps": true,
+                "Ghost Orb": true,
+                "Ghost Writing": false,
+                "Sprit Box": true
+            }
+        },
+        {
+            "ghost": "Oni",
+            "evidence": 
+            {
+                "EMF Level 5": true,
+                "Fingerprints": false,
+                "Freezing Temps": false,
+                "Ghost Orb": false,
+                "Ghost Writing": true,
+                "Sprit Box": true
+            }
+        },
+        {
+            "ghost": "Phantom",
+            "evidence": 
+            {
+                "EMF Level 5": true,
+                "Fingerprints": false,
+                "Freezing Temps": true,
+                "Ghost Orb": true,
+                "Ghost Writing": false,
+                "Sprit Box": false
+            }
+        },
+        {
+            "ghost": "Revenant",
+            "evidence": 
+            {
+                "EMF Level 5": true,
+                "Fingerprints": true,
+                "Freezing Temps": false,
+                "Ghost Orb": false,
+                "Ghost Writing": true,
+                "Sprit Box": false
+            }
+        },
+        {
+            "ghost": "Shade",
+            "evidence": 
+            {
+                "EMF Level 5": true,
+                "Fingerprints": false,
+                "Freezing Temps": false,
+                "Ghost Orb": true,
+                "Ghost Writing": true,
+                "Sprit Box": false
+            }
+        },
+        {
+            "ghost": "Spirit",
+            "evidence": 
+            {
+                "EMF Level 5": false,
+                "Fingerprints": true,
+                "Freezing Temps": false,
+                "Ghost Orb": false,
+                "Ghost Writing": true,
+                "Sprit Box": true
+            }
+        },
+        {
+            "ghost": "Wraith",
+            "evidence": 
+            {
+                "EMF Level 5": false,
+                "Fingerprints": true,
+                "Freezing Temps": true,
+                "Ghost Orb": false,
+                "Ghost Writing": false,
+                "Sprit Box": true
+            }
+        },
+        {
+            "ghost": "Yokai",
+            "evidence": 
+            {
+                "EMF Level 5": false,
+                "Fingerprints": false,
+                "Freezing Temps": false,
+                "Ghost Orb": true,
+                "Ghost Writing": true,
+                "Sprit Box": true
+            }
+        },
+        {
+            "ghost": "Yurei",
+            "evidence": 
+            {
+                "EMF Level 5": false,
+                "Fingerprints": false,
+                "Freezing Temps": true,
+                "Ghost Orb": true,
+                "Ghost Writing": true,
+                "Sprit Box": false
+            }
+        }
+    ]
+}
